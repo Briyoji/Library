@@ -1,0 +1,5 @@
+- [x] 1. Handle from 1 to 10000
+- [ ] 2. check for empty fields.
+- [ ] 3. Make all duplicates into one string
+- [ ] 4. Checked_Out.csv, Unavailable_pgnos.csv, Duplicates.csv
+- [ ] 5. Romans into a new column
